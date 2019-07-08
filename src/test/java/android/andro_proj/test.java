@@ -60,8 +60,4 @@ public class test {
 		Thread.sleep(10000000);
 	}
 
-	public static void horizontalSwipeByElement (double startPercentage, double endPercentage, double anchorPercentage) {
-		//        Dimension size = driver.manage().window().getSize();
-
-	}
 }
